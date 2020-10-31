@@ -20,4 +20,5 @@
     <ProjectReference Include="..\solarcoffee.data\SolarCoffee.Data.csproj" />
   </ItemGroup>
 
+  
 </Project>

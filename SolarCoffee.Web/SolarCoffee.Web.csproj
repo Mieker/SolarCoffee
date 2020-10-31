@@ -6,6 +6,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\solarcoffee.data\SolarCoffee.Data.csproj" />
+    <ProjectReference Include="..\solarcoffee.services\SolarCoffee.Services.csproj" />
   </ItemGroup>
 
   <ItemGroup>

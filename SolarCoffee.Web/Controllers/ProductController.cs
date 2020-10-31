@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
+using SolarCoffee.Services.Product;
 
 namespace SolarCoffee.Web.Controllers
 {

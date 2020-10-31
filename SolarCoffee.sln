@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.26124.0
 MinimumVisualStudioVersion = 15.0.26124.0
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolarCoffee.Data", "solarcoffee.data\SolarCoffee.Data.csproj", "{C8793D6F-ED15-409D-86DD-0D907C39205F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "solarcoffee.Services", "solarcoffee.services\solarcoffee.Services.csproj", "{5DA74F19-6338-4410-9865-610979F678AD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolarCoffee.Services", "solarcoffee.services\SolarCoffee.Services.csproj", "{5DA74F19-6338-4410-9865-610979F678AD}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SolarCoffee.Test", "solarcoffee.test\SolarCoffee.Test.csproj", "{CFF2005F-EDF2-47A0-8983-8D9564736C4B}"
 EndProject
