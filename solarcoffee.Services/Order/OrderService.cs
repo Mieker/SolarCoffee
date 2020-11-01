@@ -23,7 +23,7 @@ namespace SolarCoffee.Services.Order
         {
             return _db.SalesOrders
                 .Include(order => order.Customer)
-                .ThenInclude(customer => customer.PrimeAddress)
+                .ThenInclude(customer => customer.PrimaryAddress)
                 .Include(order => order.SalesOrderItems)
                 .ToList();
         }
