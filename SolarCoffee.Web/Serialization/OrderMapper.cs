@@ -9,7 +9,7 @@ namespace SolarCoffee.Web.Serialization
 {
     public class OrderMapper
     {
-        private readonly ICustomerService _customerService;
+        // private readonly ICustomerService _customerService;
         
         public static SalesOrder SerializeInvoiceToOrder(InvoiceModel invoice)
         {
