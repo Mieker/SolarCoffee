@@ -47,15 +47,15 @@ namespace SolarCoffee.Web.Controllers
             return Ok(inventory);
         }
 
-        public ActionResult GetInventoryByProductId()
-        {
-            return null;
-        }
+        // public ActionResult GetInventoryByProductId()
+        // {
+        //     return null;
+        // }
 
-        public ActionResult GetSnapshotHistory()
-        {
-            return null;
-        }
+        // public ActionResult GetSnapshotHistory()
+        // {
+        //     return null;
+        // }
         
     }
 }
